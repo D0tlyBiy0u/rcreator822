@@ -2,11 +2,11 @@
 I'm Rehan! Thanks for visiting my GitHub profile. Here are a few things about me:
 
 ### About Me 🚀
-- 💻 My prefered coding languages are HTML, CSS, and JavaScript
-- 😆 I am a Minecraft kid
-- 🔭 Learning a lot from Github
-- 🔍 Hope I'm actually coding this right
-- 💰 Main project: [GamerHub](https://www.github.com/rcreator822/GamerHub)
+- 💻 My prefered coding languages are HTML, CSS, and JavaScript but i like ur mom
+- 😆 I am a Minecraft kid who loves lava chicken
+- 🔭 Learning a lot from Github from me
+- 🔍 Hope I'm actually coding this right Ur not
+- 💰 Main project: [GamerHub](https://www.github.com/rcreator822/GamerHub) dont go on 
 
 ### Github Stats
 ![Rehan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rcreator822&theme=dark&show_icons=true)
